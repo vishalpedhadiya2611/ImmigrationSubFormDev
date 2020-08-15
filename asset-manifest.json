@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ImmigrationSubFormDev/static/css/main.f3b6cce7.chunk.css",
+    "main.js": "/ImmigrationSubFormDev/static/js/main.455affbe.chunk.js",
+    "main.js.map": "/ImmigrationSubFormDev/static/js/main.455affbe.chunk.js.map",
+    "runtime-main.js": "/ImmigrationSubFormDev/static/js/runtime-main.fd08122a.js",
+    "runtime-main.js.map": "/ImmigrationSubFormDev/static/js/runtime-main.fd08122a.js.map",
+    "static/css/2.f8a19db0.chunk.css": "/ImmigrationSubFormDev/static/css/2.f8a19db0.chunk.css",
+    "static/js/2.55f96e39.chunk.js": "/ImmigrationSubFormDev/static/js/2.55f96e39.chunk.js",
+    "static/js/2.55f96e39.chunk.js.map": "/ImmigrationSubFormDev/static/js/2.55f96e39.chunk.js.map",
+    "index.html": "/ImmigrationSubFormDev/index.html",
+    "precache-manifest.dda2e1647b4787b5c0db94dc0e351a39.js": "/ImmigrationSubFormDev/precache-manifest.dda2e1647b4787b5c0db94dc0e351a39.js",
+    "service-worker.js": "/ImmigrationSubFormDev/service-worker.js",
+    "static/css/2.f8a19db0.chunk.css.map": "/ImmigrationSubFormDev/static/css/2.f8a19db0.chunk.css.map",
+    "static/css/main.f3b6cce7.chunk.css.map": "/ImmigrationSubFormDev/static/css/main.f3b6cce7.chunk.css.map",
+    "static/js/2.55f96e39.chunk.js.LICENSE.txt": "/ImmigrationSubFormDev/static/js/2.55f96e39.chunk.js.LICENSE.txt",
+    "static/media/Maya-avatar.jpg": "/ImmigrationSubFormDev/static/media/Maya-avatar.45e6b951.jpg",
+    "static/media/mdb.css": "/ImmigrationSubFormDev/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/ImmigrationSubFormDev/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/logo.png": "/ImmigrationSubFormDev/static/media/logo.7f6de6ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd08122a.js",
+    "static/css/2.f8a19db0.chunk.css",
+    "static/js/2.55f96e39.chunk.js",
+    "static/css/main.f3b6cce7.chunk.css",
+    "static/js/main.455affbe.chunk.js"
+  ]
+}
